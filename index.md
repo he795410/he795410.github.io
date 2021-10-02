@@ -1,6 +1,6 @@
 # 測試
-## [1] (https://google.com) 
-### [] (https://www.gamer.com.tw/) 
+## [1](https://google.com) 
+### [2](https://www.gamer.com.tw/) 
 [奇摩](https://tw.yahoo.com) 
 
 ![Image](https://images.goodsmile.info/cgm/images/product/20191007/8886/64417/large/1dde133a0991fade7c3436b47ff3b57c.jpg)
